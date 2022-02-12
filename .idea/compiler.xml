@@ -7,11 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="DataLoader" />
-        <module name="KafkaStreaming" />
         <module name="businessServer" />
         <module name="OfflineRecommender" />
-        <module name="ItemCFRecommender" />
+        <module name="KafkaStreaming" />
         <module name="ContentRecommender" />
+        <module name="ItemCFRecommender" />
         <module name="StatisticsRecommender" />
         <module name="OnlineRecommender" />
       </profile>
@@ -24,6 +24,7 @@
       <module name="KafkaStreaming" target="1.8" />
       <module name="OfflineRecommender" target="1.8" />
       <module name="OnlineRecommender" target="1.8" />
+      <module name="recommendation-system" target="1.8" />
       <module name="recommender" target="1.8" />
       <module name="StatisticsRecommender" target="1.8" />
     </bytecodeTargetLevel>
