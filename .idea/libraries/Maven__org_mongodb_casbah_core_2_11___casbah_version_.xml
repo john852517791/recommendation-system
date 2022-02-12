@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mongodb:casbah-core_2.11:${casbah.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/casbah-core_2.11/${casbah.version}/casbah-core_2.11-${casbah.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/casbah-core_2.11/${casbah.version}/casbah-core_2.11-${casbah.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mongodb/casbah-core_2.11/${casbah.version}/casbah-core_2.11-${casbah.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

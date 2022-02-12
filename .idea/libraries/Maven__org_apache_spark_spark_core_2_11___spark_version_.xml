@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.spark:spark-core_2.11:${spark.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/${spark.version}/spark-core_2.11-${spark.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/${spark.version}/spark-core_2.11-${spark.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/${spark.version}/spark-core_2.11-${spark.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
